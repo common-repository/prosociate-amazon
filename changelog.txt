@@ -1,0 +1,8 @@
+<---->Version: 3.0.0.1<---->
+1. Enhanced error reporting for Amazon credentials status.
+2. Fixed wrong featured image issue for books and other products.
+4. Amazon connection testing before product update.
+5. Post Parent Products Enabled by Default.
+
+
+

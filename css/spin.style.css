@@ -1,0 +1,19 @@
+select#word_select {
+        height:auto !important;
+width:250px;
+size: 20;
+    }
+    .mce-container #spinner_dev{
+      z-index: 1000;
+    }
+.mce-container #spinner_dev > li{
+	background:#000;
+	color:#fff;
+}
+.mce-container #spinner_dev li:hover{
+	background:gray;
+	color:#fff;
+}
+#pros_spinner-meta-boxes .tabs-panel.visible-overflow{
+  max-height: 800px !important;
+}

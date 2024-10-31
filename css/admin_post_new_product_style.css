@@ -1,0 +1,12 @@
+#dm_post_products_step h3 {
+    margin: 0;
+}
+
+#pros_new_product_td {
+    text-align: right;
+}
+
+#pros_new_product_td .button {
+    height: 48px;
+    padding: 0 20px;
+}

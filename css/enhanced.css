@@ -1,0 +1,8 @@
+.statlist tbody tr.childrow {
+    display: none;
+}
+
+.statlist tbody tr.childrow th {
+    padding-left: 20px;
+}
+
